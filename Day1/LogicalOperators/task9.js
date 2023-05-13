@@ -29,6 +29,3 @@ if(visitorName === "Admin") {
 } else {
     alert("I don't know you");
 }
-
-
-// kjfdnvif
