@@ -1,1 +1,1 @@
-# problem-solving-with-javaScript-and-DSA (Day1)
+# problem-solving-with-javaScript-and-DSA
