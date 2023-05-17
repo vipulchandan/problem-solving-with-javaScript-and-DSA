@@ -28,4 +28,5 @@ const secondLargest = (arr) => {
 //     return secondLargest;
 // }
 
+
 console.log(secondLargest([1,2,3,4,15,11,25]));
