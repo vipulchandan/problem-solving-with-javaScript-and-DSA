@@ -1,7 +1,7 @@
 // 3. find the second largest element in an array
 
 const secondLargest = (arr) => {
-    let max = arr[0];
+    let max = -Infinity;
     let secondLargest;
     for(let i=0; i<arr.length; i++) {
         if(arr[i] > max) {
